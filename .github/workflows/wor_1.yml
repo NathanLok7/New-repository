@@ -3,7 +3,7 @@ name: Work 1 Dorx
 on: 
   push:
     branches:
-      - Test_1
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
